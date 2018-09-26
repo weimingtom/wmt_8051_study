@@ -7,3 +7,4 @@
 * http://osdn.jp/projects/sfnet_gstcisp/releases/?fulllist=1  
 * https://github.com/RainMark/stcflash.git  
 * https://www.exploreembedded.com/wiki/8051_Development_Board_Setup  
+* rtxtiny  
