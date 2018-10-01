@@ -9,3 +9,5 @@
 * https://www.exploreembedded.com/wiki/8051_Development_Board_Setup  
 * rtxtiny  
 * https://www.electroschematics.com/11099/at89s52-minimum-development-board-8051-tutorial-2/  
+* 基于单片机的万年历设计  
+* http://www.doc88.com/p-4015132597462.html  
