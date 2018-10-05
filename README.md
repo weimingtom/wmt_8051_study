@@ -12,3 +12,4 @@
 * 基于单片机的万年历设计  
 * http://www.doc88.com/p-4015132597462.html  
 * search baidupan 基于单片机的万年历设计.doc  
+* 精选单片机设计与制作30例  
