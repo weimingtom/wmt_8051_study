@@ -13,3 +13,5 @@
 * http://www.doc88.com/p-4015132597462.html  
 * search baidupan 基于单片机的万年历设计.doc  
 * 精选单片机设计与制作30例  
+* 云龙51单片机视频教程 - 如何学好单片机  
+* https://chuanke.baidu.com/v2844297-112176-235940.html  
