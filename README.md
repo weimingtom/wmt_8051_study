@@ -15,3 +15,6 @@
 * 精选单片机设计与制作30例  
 * 云龙51单片机视频教程 - 如何学好单片机  
 * https://chuanke.baidu.com/v2844297-112176-235940.html  
+* emu8051  
+* https://github.com/jarikomppa/emu8051  
+* http://sol.gfxile.net/8051.html  
