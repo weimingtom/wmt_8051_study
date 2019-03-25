@@ -19,3 +19,4 @@
 * https://github.com/jarikomppa/emu8051  
 * http://sol.gfxile.net/8051.html  
 * (baidupan) emu8051_072.zip  
+* STC15W408AS  
