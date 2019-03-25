@@ -19,6 +19,6 @@
 * https://github.com/jarikomppa/emu8051  
 * http://sol.gfxile.net/8051.html  
 * (baidupan) emu8051_072.zip  
-* STC15W408AS: 我爱电子    
-* STC15W404AS: DIY乐园  
-* STC15F204EA: 上升沿  
+* STC15W408AS: 我爱电子, 8K Flash, 512 SRAM, 5K EPPROM, 26 I/O, 1 UART      
+* STC15W404AS: DIY乐园, 4K Flash, 512 SRAM, 9K EPPROM, 26 I/O, 1 UART  
+* STC15F204EA: 上升沿, 4K Flash, 256 SRAM, 1K EPPROM, 26 I/O, 0 UART    
