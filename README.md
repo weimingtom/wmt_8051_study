@@ -34,3 +34,6 @@ http://www.21ic.com/calculator/LEDfaguang.htm
 ## STC89C54RD+, ISP, UART  
 * P3.0=RxD  
 * P3.1=TxD  
+
+## DT-830B  
+数字万用表  
