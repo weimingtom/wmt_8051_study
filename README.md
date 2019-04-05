@@ -24,3 +24,10 @@
 * STC15F204EA: 上升沿, 4K Flash, 256 SRAM, 1K EPPROM, 26 I/O, 0 UART    
 * 《STC15增强型8051单片机C语言编程与应用》  
 * 《MCS-51单片机C语言编程100例》  
+
+## LED R  
+* 3.3V, 220R, (3.3-1.63) / 0.008 = 208.75    
+Mastering_the_Raspberry_Pi.pdf, Chapter 12, P.128  
+* 5V, 200R - 300R, (5.0-3.2) / 0.01 = 180    
+http://www.21ic.com/calculator/LEDfaguang.htm  
+
