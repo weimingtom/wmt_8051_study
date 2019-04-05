@@ -25,7 +25,7 @@
 * 《STC15增强型8051单片机C语言编程与应用》  
 * 《MCS-51单片机C语言编程100例》  
 
-## LED R  
+## LED R, use 200R (200 ohm)      
 * 3.3V, 220R, (3.3-1.63) / 0.008 = 208.75    
 Mastering_the_Raspberry_Pi.pdf, Chapter 12, P.128  
 * 5V, 200R - 300R, (5.0-3.2) / 0.01 = 180    
