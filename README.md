@@ -31,3 +31,6 @@ Mastering_the_Raspberry_Pi.pdf, Chapter 12, P.128
 * 5V, 200R - 300R, (5.0-3.2) / 0.01 = 180    
 http://www.21ic.com/calculator/LEDfaguang.htm  
 
+## ISP, UART  
+* P3.0=RxD  
+* P3.1=TxD  
