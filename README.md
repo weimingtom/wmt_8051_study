@@ -43,3 +43,6 @@ http://www.21ic.com/calculator/LEDfaguang.htm
 
 ## wmt_51  
 https://gitee.com/weimingtom/wmt_51  
+
+## ds1302, 信泰微    
+(search baidupan) DS1302实时时钟模块.rar  
