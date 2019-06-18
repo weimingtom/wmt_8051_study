@@ -46,3 +46,12 @@ https://gitee.com/weimingtom/wmt_51
 
 ## ds1302, 信泰微    
 (search baidupan) DS1302实时时钟模块.rar  
+
+## 信泰微, STC15F2K60S2-28I-DIP40
+价格6元, 不需要外部时钟电路（晶振）  
+http://www.stcmcudata.com/datasheet/stc/STC-AD-PDF/STC15.pdf  
+left bottom 3: 5V  
+left bottom 1: GND  
+right bottom 1: RxD  
+right bottom 2: TxD  
+
