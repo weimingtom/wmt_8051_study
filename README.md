@@ -37,3 +37,9 @@ http://www.21ic.com/calculator/LEDfaguang.htm
 
 ## DT-830B  
 数字万用表  
+
+## 电子锁  
+(search biadupan) lock_v3.rar  
+
+## wmt_51  
+https://gitee.com/weimingtom/wmt_51  
