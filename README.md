@@ -58,3 +58,6 @@ right bottom 2: TxD
 ## 详解基于51单片机的small rtos（1）  
 http://www.51hei.com/mcu/1377.html  
 
+## Proteus Pro 7.8 SP2  
+D:\Program Files\Labcenter Electronics\Proteus 7 Professional\SAMPLES\VSM for 8051\C51 Calculator\  
+
