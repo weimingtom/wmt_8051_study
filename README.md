@@ -61,3 +61,5 @@ http://www.51hei.com/mcu/1377.html
 ## Proteus Pro 7.8 SP2  
 D:\Program Files\Labcenter Electronics\Proteus 7 Professional\SAMPLES\VSM for 8051\C51 Calculator\  
 
+## N76E003开发板, 中景园  
+(search baidupan) n76e003_led_v2.rar    
