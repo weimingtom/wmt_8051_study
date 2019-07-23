@@ -63,3 +63,8 @@ D:\Program Files\Labcenter Electronics\Proteus 7 Professional\SAMPLES\VSM for 80
 
 ## N76E003开发板, 中景园  
 (search baidupan) n76e003_led_v2.rar    
+
+## 关于Cypress公司USB芯片FX2的固件开发  
+https://blog.csdn.net/znmdwahaha/article/details/48597643  
+http://www.waveshare.net/wiki/CY7C68013A_USB_Board_(mini)  
+CY7C68013A   
