@@ -4,6 +4,9 @@
 STC12C5A60S2系列工作电压：5.5V-3.3V(5V单片机)   
 STC12LE5A60S2系列工作电压：3.6V-2.2V(3V单片机)  
 
+## 光盘资料  
+* search baidupan, 51单片机资料_我的光盘.iso  
+
 ## Ref  
 * https://www.cnblogs.com/rain-blog/p/how-to-set-51-environment-in-linux.html  
 * http://sdcc.sourceforge.net/snap.php#Linux  
