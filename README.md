@@ -75,3 +75,6 @@ D:\Program Files\Labcenter Electronics\Proteus 7 Professional\SAMPLES\VSM for 80
 https://blog.csdn.net/znmdwahaha/article/details/48597643  
 http://www.waveshare.net/wiki/CY7C68013A_USB_Board_(mini)  
 CY7C68013A   
+
+## HML_FwLib_STC89  
+https://github.com/MCU-ZHISHAN-IoT/HML_FwLib_STC89  
