@@ -82,3 +82,13 @@ https://github.com/MCU-ZHISHAN-IoT/HML_FwLib_STC89
 ## MWbalanced 8051 control source code with no RTOS.  
 https://miaowlabs.com/wiki/Mwbalanced/setup-environment.html  
 https://github.com/MiaowLabs/MWbalanced-firmware-none  
+
+## mcs51  
+* 我试下用MCS51编译51单片机汇编程序，还真能编译出来——不过不推荐用，  
+因为这个工具链只能用于DOS环境——它的过程大概是这样，通过ASM51生成OBJ文件，  
+然后通过RL51链接成无后缀的执行文件（带有头部和尾部信息），  
+最后通过OH生成hex文件（可以通过hexbin转换回去bin文件）。  
+也就是说，类似于linux的单片机程序，也是会生成一个目标文件，  
+但是带有头部和尾部的多余字节，需要用别的办法去掉，这里用到的OH这个程序，  
+意思可能是指object to hex，它甚至可以绕过RL51这个程序直接转换obj后缀文件，  
+似乎效果也是一样的  
